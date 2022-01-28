@@ -211,17 +211,17 @@ const Header = ({ type }) => {
 
                                 <li>
                                 <a href="https://twitter.com/FraktalNFT" target="_blank">
-                                    <i className="fab fa-twitter"></i>
+                                    <i className="fab fa-twitter fa-lg"></i>
                                 </a>
                                 </li>
                                 <li>
                                 <a href="https://www.instagram.com/fraktal.io/" target="_blank">
-                                    <i className="fab fa-instagram"></i>
+                                    <i className="fab fa-instagram fa-lg"></i>
                                 </a>
                                 </li>
                                 <li>
                                 <a href="https://discord.com/invite/P6fCPvtZtq" target="_blank">
-                                    <i className="fab fa-discord"></i>
+                                    <i className="fab fa-discord fa-lg"></i>
                                 </a>
 
                                 </li>

@@ -3,7 +3,7 @@ import React from 'react';
 const DownloadButton = ({ groupType, buttonType }) => {
     return (
         <div className={`download-button-group ${groupType}`}>
-            <a href="#!" className={`download-button download-button-google ${buttonType}`}>
+            <a href="https://docs.fraktal.io/" target="_blank" className={`download-button download-button-google ${buttonType}`}>
                 <div className="download-button-inner">
                     <div className="download-button-icon c-purple">
                         <i className="fas fa-hat-wizard"></i>
@@ -14,7 +14,7 @@ const DownloadButton = ({ groupType, buttonType }) => {
                     </div>
                 </div>
             </a>
-            <a href="#!" className={`download-button download-button-apple ${buttonType}`}>
+            <a href="https://discord.com/invite/P6fCPvtZtq" target="_blank" className={`download-button download-button-apple ${buttonType}`}>
                 <div className="download-button-inner">
                     <div className="download-button-icon c-pink">
                         <i className="fab fa-discord"></i>

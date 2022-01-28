@@ -185,7 +185,7 @@ const Index = () => {
                                     <div className="col-lg-8 offset-lg-0 col-10 offset-1">
                                         <h1 className="c-white">Stake FRAK to Earn ETH</h1>
                                         <h4 className="c-white">
-                                            <i className="fas fa-smile" style={{marginRight: '1rem'}}></i>
+                                            <i className="" style={{marginRight: '1rem'}}></i>
                                             FRAK stakers earn ETH per block from protocol transaction fees.
                                         </h4>
                                     </div>

@@ -6,12 +6,12 @@ const AppFeatureSingle = ({ icon, heading, excerpt, link = '/', containerClass }
     return (
         <div className={`app-feature-single ${containerClass}`}>
             <div className="app-feature-single-wrapper">
-                <Link to={link} className="icon">
+                <div className="icon">
                     <i className={icon}></i>
-                </Link>
-                <Link to={link}>
+                </div>
+                <div>
                     <h3 className="c-dark">{heading}</h3>
-                </Link>
+                </div>
                 <p className="c-grey">{excerpt}</p>
             </div>
 
