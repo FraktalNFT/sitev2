@@ -103,7 +103,7 @@ const Index = () => {
                             <div className="col-lg-12 offset-lg-0 col-10 offset-1">
                                 <SectionHeading
 
-                                    subHeading='Value for Everyone in the NFT Ecosystem'
+                                    subHeading='Fraktal Brings Value for Everyone in the NFT Ecosystem'
 
                                     additionalClasses='center width-64'
                                 />
@@ -186,7 +186,7 @@ const Index = () => {
                                         <h1 className="c-white">Stake FRAK to Earn ETH</h1>
                                         <h4 className="c-white">
                                             <i className="" style={{marginRight: '1rem'}}></i>
-                                            FRAK stakers earn ETH per block from protocol transaction fees.
+                                            FRAK stakers earn ETH every block from Fraktal transaction fees.
                                         </h4>
                                     </div>
 

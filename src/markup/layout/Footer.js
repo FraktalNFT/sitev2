@@ -18,7 +18,7 @@ const Footer = () => {
                                     <Link to="#">
                                         <img src={logo} alt="footer-logo" />
                                     </Link>
-                                    <p className="c-grey-1">Fraktal is a community first project, whose mission is to to empower artists to be in full control of their work and have unlimited creative freedom.</p>
+                                    <p className="c-grey-1">Fraktal is a community first project, with a mission to to empower artists to be in full control of their work and have unlimited creative freedom.</p>
 
                                 </div>
                                 <div className="footer-list footer-social social-gradient">
