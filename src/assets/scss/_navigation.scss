@@ -27,9 +27,13 @@ navigation
     }
 
 
-  .fab {
+  .nav.fab {
     color: gray;
+    @media (max-width: 991px) {
+          display: none;
   }
+
+}
     .fab:hover {
       color:blue;
 
@@ -100,6 +104,8 @@ navigation
             }
         }
     }
+
+
 
     &-menu {
         .parent {

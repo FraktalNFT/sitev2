@@ -156,16 +156,16 @@ const Header = ({ type }) => {
                                 (
                                     <>
                                     <Link className="logo" to="/">
-                                        <img src={logo} alt="orions-logo" />
+                                        <img src={logo} alt="fraktal-logo" />
                                     </Link>
                                     <Link className="logo-white" to="/">
-                                        <img src={logo_white} alt="orions-logo" />
+                                        <img src={logo_white} alt="fraktal-logo" />
                                     </Link>
                                     </>
                                 ):
                                 (
                                     <Link to="/">
-                                        <img src={logo} alt="orions-logo" />
+                                        <img src={logo} alt="fraktal-logo" />
                                     </Link>
                                 )
                             }
@@ -211,45 +211,42 @@ const Header = ({ type }) => {
 
                                 <li>
                                 <a href="https://twitter.com/FraktalNFT" target="_blank">
-                                    <i className="fab fa-twitter fa-lg"></i>
+                                    <i className="nav fab fa-twitter fa-lg"></i>
                                 </a>
                                 </li>
                                 <li>
                                 <a href="https://www.instagram.com/fraktal.io/" target="_blank">
-                                    <i className="fab fa-instagram fa-lg"></i>
+                                    <i className="nav fab fa-instagram fa-lg"></i>
                                 </a>
                                 </li>
                                 <li>
                                 <a href="https://discord.com/invite/P6fCPvtZtq" target="_blank">
-                                    <i className="fab fa-discord fa-lg"></i>
+                                    <i className="nav fab fa-discord fa-lg"></i>
                                 </a>
 
                                 </li>
 
                             </ul>
+
                             <div className="social">
                                 <h6>Follow</h6>
                                 <ul>
                                     <li>
-                                        <Link to="#">
-                                            <i className="fab fa-twitter"></i>
-                                        </Link>
+                                    <a href="https://twitter.com/FraktalNFT" target="_blank">
+                                        <i className="fab fa-twitter fa-lg"></i>
+                                    </a>
                                     </li>
                                     <li>
-                                        <Link to="#">
-                                            <i className="fab fa-facebook"></i>
-                                        </Link>
+                                    <a href="https://www.instagram.com/fraktal.io/" target="_blank">
+                                        <i className="fab fa-instagram fa-lg"></i>
+                                    </a>
                                     </li>
                                     <li>
-                                        <Link to="#">
-                                            <i className="fab fa-linkedin"></i>
-                                        </Link>
+                                    <a href="https://discord.com/invite/P6fCPvtZtq" target="_blank">
+                                        <i className="fab fa-discord fa-lg"></i>
+                                    </a>
                                     </li>
-                                    <li>
-                                        <Link to="#">
-                                            <i className="fab fa-youtube"></i>
-                                        </Link>
-                                    </li>
+
                                 </ul>
                             </div>
                             <div className="background-pattern">
