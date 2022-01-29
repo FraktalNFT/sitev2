@@ -1,7 +1,7 @@
 {
   "name": "orions-react-demo-1",
   "version": "0.1.0",
-  "homepage": "http://staging.fraktal.io",
+  "homepage": "https://staging.fraktal.io/orions-react/demo-1",
   "private": true,
   "dependencies": {
     "@popperjs/core": "^2.11.0",
