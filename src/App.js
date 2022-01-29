@@ -16,7 +16,7 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 
 const App = () => {
   return (
-    <BrowserRouter basename='/orions-react/demo-1'>
+    <BrowserRouter'>
         <Markup/>
     </BrowserRouter>
   );
