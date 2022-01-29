@@ -16,7 +16,7 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 
 const App = () => {
   return (
-    <BrowserRouter'>
+    <BrowserRouter basename=''>
         <Markup/>
     </BrowserRouter>
   );
