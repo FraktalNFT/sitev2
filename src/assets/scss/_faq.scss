@@ -28,7 +28,7 @@ faq
         border: none;
         box-shadow: none;
         background-color: initial;
-
+        text-align: center;
         font-size: 2rem;
         font-weight: bold;
         color: $font-dark;
@@ -41,11 +41,12 @@ faq
         }
 
         &::after {
-            content: '\f055';
+
             font-family: 'Line Awesome Free';
-            color: var(--gradient-blue-1);
+  
 
             font-size: 3.2rem;
+
             display: block;
             background: none;
 
