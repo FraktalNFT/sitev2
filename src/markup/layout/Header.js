@@ -197,9 +197,9 @@ const Header = ({ type }) => {
 
                                 </li>
                                 <li>
-                                    <Link to="/" className="link-underline link-underline-1">
+                                    <a href="https://docs.fraktal.io/fraktal-dao/overview" target="_blank" className="link-underline link-underline-1">
                                         <span>DAO</span>
-                                    </Link>
+                                    </a>
 
                                 </li>
                                 <li>

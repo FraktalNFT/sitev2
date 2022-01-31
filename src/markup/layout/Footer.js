@@ -80,7 +80,7 @@ const Footer = () => {
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="/" className="link-underline" target="_blank">
+                                            <a href="https://docs.fraktal.io/fraktal-dao/overview" className="link-underline" target="_blank">
                                                 <span>DAO</span>
                                             </a>
                                         </li>
