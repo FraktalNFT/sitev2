@@ -112,7 +112,7 @@ const Index = () => {
                         <div className="row gx-5 gy-5">
                             { features.map((element, key) => {
                                 return (
-                                    <div className="col-lg-4 offset-lg-0 col-md-6 offset-md-0 col-10 offset-1" key={key}>
+                                    <div className="col-lg-4 offset-lg-0 col-md-6 offset-md-0 col-10 offset-1 col-sm-12 col-xs-12" key={key}>
                                         <AppFeatureSingle
                                             icon={element.icon}
                                             heading={element.heading}
