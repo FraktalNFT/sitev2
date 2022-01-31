@@ -6,7 +6,7 @@ download button
     width: max-content;
     padding: var(--border-width);
     text-align: left;
-    
+    // @include border-radius;
 
     &-group {
         // .download-button:not(:last-child) {
