@@ -6,7 +6,7 @@ download button
     width: max-content;
     padding: var(--border-width);
     text-align: left;
-    @include border-radius;
+    
 
     &-group {
         // .download-button:not(:last-child) {
@@ -25,7 +25,7 @@ download button
                 margin-top: 1rem;
                 // margin-right: 1.8rem;
             }
-    
+
             margin-top: -1rem;
         }
     }
@@ -58,7 +58,7 @@ download button
 
             @include animateIt(.4s, $timing_func: ease-in-out);
         }
-    }    
+    }
 
     &-icon {
         position: relative;
@@ -129,10 +129,10 @@ download button
     &-1 {
         padding: 0;
         background: transparent;
-        -webkit-box-shadow: inset 0px 0px 0px var(--border-width) #FFFFFF; 
+        -webkit-box-shadow: inset 0px 0px 0px var(--border-width) #FFFFFF;
                 box-shadow: inset 0px 0px 0px var(--border-width) #FFFFFF;
         .download-button-inner {
-            padding: 
+            padding:
                 calc(1.8rem + var(--border-width))
                 calc(3rem + var(--border-width))
                 calc(1.6rem + var(--border-width))
@@ -191,7 +191,7 @@ download button
                 flex-direction: row;
                 align-items: center;
                 flex-wrap: wrap;
-                
+
                 margin: 0 0 0 -2rem;
             }
 
@@ -216,7 +216,7 @@ button
     border: none;
 
     overflow: hidden;
-    
+
     &-inner {
         display: flex;
         align-items: center;
@@ -258,7 +258,7 @@ button
             font-size: 1.5rem;
             margin-right: .4rem;
         }
-        
+
         h4, .text {
             font-size: 1.4rem;
             font-weight: 700;
@@ -285,7 +285,7 @@ button
 
     &-1 {
         background-color: transparent;
-        -webkit-box-shadow: inset 0px 0px 0px .3rem #FFFFFF; 
+        -webkit-box-shadow: inset 0px 0px 0px .3rem #FFFFFF;
                 box-shadow: inset 0px 0px 0px .3rem #FFFFFF;
 
         .button-inner {
@@ -367,6 +367,6 @@ button
         }
         @include drop-shadow($color: var(--gradient-blue-1-rgba-4), $yOffset: 10px, $blurRadius: 10px);
     }
-    
+
     @include border-radius();
 }
