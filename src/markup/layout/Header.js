@@ -185,7 +185,7 @@ const Header = ({ type }) => {
                             </div>
                             <ul className="parent">
                                 <li>
-                                <a href="https://waitlist.fraktal.io/" target="_blank" className="link-underline link-underline-1">
+                                <a href="https://docs.fraktal.io/fraktal-governance-token-frak/airdrop" target="_blank" className="link-underline link-underline-1">
 
                                         <span>Airdrop</span>
                                     </a>
