@@ -70,18 +70,18 @@ const Footer = () => {
                                     <h6>Get Started</h6>
                                     <ul>
                                         <li>
-                                            <a href="https://waitlist.fraktal.io/" className="link-underline" target="_blank">
-                                                <span>Airdrop</span>
-                                            </a>
-                                        </li>
-                                        <li>
                                             <a href="https://testnet.fraktal.io/" className="link-underline" target="_blank">
                                                 <span>Marketplace</span>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://docs.fraktal.io/fraktal-dao/overview" className="link-underline" target="_blank">
+                                            <a href="https://dao.fraktal.io/#/" className="link-underline" target="_blank">
                                                 <span>DAO</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://marketplace.fraktal.io/rewards" className="link-underline" target="_blank">
+                                                <span>Stake FRAK</span>
                                             </a>
                                         </li>
 

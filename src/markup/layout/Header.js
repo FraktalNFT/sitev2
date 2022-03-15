@@ -185,11 +185,7 @@ const Header = ({ type }) => {
                             </div>
                             <ul className="parent">
                                 <li>
-                                <a href="https://docs.fraktal.io/fraktal-governance-token-frak/airdrop" target="_blank" className="link-underline link-underline-1">
 
-                                        <span>Airdrop</span>
-                                    </a>
-                                </li>
                                 <li>
                                     <a href="https://testnet.fraktal.io/" target="_blank" className="link-underline link-underline-1">
                                         <span>Marketplace</span>
@@ -197,7 +193,7 @@ const Header = ({ type }) => {
 
                                 </li>
                                 <li>
-                                    <a href="https://docs.fraktal.io/fraktal-dao/overview" target="_blank" className="link-underline link-underline-1">
+                                    <a href="https://dao.fraktal.io/#/" target="_blank" className="link-underline link-underline-1">
                                         <span>DAO</span>
                                     </a>
 
