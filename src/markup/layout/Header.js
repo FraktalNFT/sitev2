@@ -184,7 +184,7 @@ const Header = ({ type }) => {
                                 </ul>
                             </div>
                             <ul className="parent">
-                                <li>
+                                
 
                                 <li>
                                     <a href="https://marketplace.fraktal.io/" target="_blank" className="link-underline link-underline-1">
