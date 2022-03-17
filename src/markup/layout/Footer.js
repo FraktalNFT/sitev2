@@ -70,7 +70,7 @@ const Footer = () => {
                                     <h6>Get Started</h6>
                                     <ul>
                                         <li>
-                                            <a href="https://testnet.fraktal.io/" className="link-underline" target="_blank">
+                                            <a href="https://marketplace.fraktal.io/" className="link-underline" target="_blank">
                                                 <span>Marketplace</span>
                                             </a>
                                         </li>
